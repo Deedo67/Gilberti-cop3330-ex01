@@ -12,7 +12,7 @@ public class ex01 {
         Scanner in = new Scanner(System.in);
 
         //Input name
-        System.out.print("What is your name?");
+        System.out.print("What is your name? ");
         String name = in.nextLine();
 
         //Output String
